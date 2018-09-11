@@ -1,5 +1,5 @@
 body {
-  background-color: #e0e0e0; }
+  background: white; }
 
 .container-fluid {
   background: transparent; }
@@ -66,8 +66,7 @@ header {
     content: "";
     background-size: 30px 30px;
     width: 30px;
-    height: 30px;
-    margin-right: 10px; }
+    height: 30px; }
 
 .content {
   padding: 0; }
